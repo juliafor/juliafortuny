@@ -12,9 +12,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
-  <body>
-    <a id="skip-to-content" href="#content">Skip to the content.</a>
-    li {
+  ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  }
+
+  li {
     display: inline;
     }
     </style>
@@ -26,6 +30,8 @@
   <li><a href="https://juliafor.github.io/juliafortuny/about">About</a></li>
   <li><a href="https://juliafor.github.io/juliafortuny/contact">Contact</a></li>
   </ul>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
