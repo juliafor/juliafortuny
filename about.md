@@ -1,1 +1,5 @@
-This is a test
+layout: page
+title: About
+permalink: /about
+
+Test **testy**
