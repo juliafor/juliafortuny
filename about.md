@@ -1,4 +1,4 @@
-<h1>About me <h1>
+<h1>About me </h1>
 I’m a data analyst based in Berlin. 
 
 I graduated from the CareerFoundry Data Immersion course in October 2021 and I'm currently looking for my first job in the field. 
