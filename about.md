@@ -16,12 +16,12 @@ I particularly enjoy working with Python and would like to continue developing i
 I speak and write English, German, Spanish, Catalan and French, and Chinese to level B2.
 I’m currently looking for a full- or part time position as a junior analyst in Berlin or remote. 
 
-Coffee or tea? Coffee. 
-Cats or dogs? Cats. 
-Guitar or drums? Drums. 
-Sweet or savoury? Savoury. 
-Sunrise or sunset? Sunrise. 
-Yoga or jogging? Yoga. 
+Coffee or tea? Coffee. <br>
+Cats or dogs? Cats. <br>
+Guitar or drums? Drums. <br>
+Sweet or savoury? Savoury. <br>
+Sunrise or sunset? Sunrise. <br>
+Yoga or jogging? Yoga. <br>
 
 Contact me on: fortunyjulia (at) gmail (dot) com.
 Find me on [LinkedIn](https://www.linkedin.com/in/juliafortuny) and [Tableau](https://www.linkedin.com/in/juliafortuny).  
