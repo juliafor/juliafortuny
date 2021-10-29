@@ -1,2 +1,4 @@
 <h1>Contact</h1>
-Bla
+
+Contact me on: fortunyjulia (at) gmail (dot) com.
+Find me on [LinkedIn](https://www.linkedin.com/in/juliafortuny) and [Tableau](https://www.linkedin.com/in/juliafortuny).  
