@@ -1,3 +1,3 @@
 <h1>CV</h1> <br>
 Please use it sensibly and respect GDPR. <br>
-<a href="/JFortuny_DataAnalyst.pdf" class="btn" download>Download CV</a>
+<a href="/JFortuny_DataAnalyst.pdf" class="button" download>Download CV</a>
