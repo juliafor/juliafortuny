@@ -12,8 +12,24 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
+    <style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
     </style>
-    </head>
     <body>
   <ul>
   <li><a href="https://juliafor.github.io/juliafortuny/">Home</a></li>
@@ -31,8 +47,8 @@
         <a href="{{ site.github.repository_url }}" class="btn">My code on GitHub</a>
       {% endif %}
       {% if site.show_downloads %}
-        <a href="{{ main/juliafortuny/JFortuny_DataAnalyst.pdf }}" class="btn">Download CV</a>
-        <a href="{{ main/juliafortuny/CaseStudies_portfolio.pdf }}" class="btn">Download portfolio</a>
+        <a href="/JFortuny_DataAnalyst.pdf download" class="btn">Download CV</a>
+        <a href="/CaseStudies_portfolio.pdf download" class="btn">Download portfolio</a>
       {% endif %}
     </header>
 
