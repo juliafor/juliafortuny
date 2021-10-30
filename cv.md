@@ -2,11 +2,11 @@
 <html>
 <body>
 
-<h1>CV/h1>
+<h1>CV</h1>
 
-<p>Please use it sensibly and respect GDPR.<p>
+<p>Please use sensibly and respect GDPR.<p>
 <a href="juliafortuny/JFortuny_DataAnalyst.pdf" download="JFortuny_DataAnalyst">
-  <Download CV>
+  Download CV
 </a>
   
 </body>
