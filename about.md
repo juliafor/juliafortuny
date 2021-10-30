@@ -24,4 +24,4 @@ Sunrise or sunset? Sunrise. <br>
 Yoga or jogging? Yoga. <br>
 
 Contact me on: fortunyjulia (at) gmail (dot) com.
-Find me on [LinkedIn](https://www.linkedin.com/in/juliafortuny) and [Tableau](https://www.linkedin.com/in/juliafortuny).  
+Find me on [LinkedIn](https://www.linkedin.com/in/juliafortuny) and [Tableau](https://public.tableau.com/app/profile/julia.fortuny#!/). 
