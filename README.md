@@ -11,4 +11,4 @@ Contact me for full- or part-time positions in Berlin or remote, or if you just 
 
 fortunyjulia (at) gmail (dot) com
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/juliafortuny) and [Tableau](https://www.linkedin.com/in/juliafortuny).
+You can also find me on [LinkedIn](https://www.linkedin.com/in/juliafortuny) and [Tableau](https://public.tableau.com/app/profile/julia.fortuny#!/). 
